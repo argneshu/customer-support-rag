@@ -1,0 +1,7 @@
+anthropic
+chromadb
+pandas
+sentence-transformers
+python-dotenv
+requests
+numpy

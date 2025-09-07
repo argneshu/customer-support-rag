@@ -1,0 +1,22 @@
+# Environment and secrets
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+rag_env/
+venv/
+
+# Database
+chroma_db/
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
