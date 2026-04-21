@@ -1,4 +1,4 @@
-# Customer Support RAG
+# RAG (Read data from pdf and csv using chatbots)
 
 A Retrieval-Augmented Generation (RAG) chatbot for customer support. It loads a knowledge base from CSV and/or PDF files, stores embeddings in a local ChromaDB vector database, and uses Anthropic's Claude model to answer user questions grounded in that knowledge base.
 
