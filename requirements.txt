@@ -1,7 +1,9 @@
 anthropic
 chromadb
 pandas
+pdfplumber
 sentence-transformers
 python-dotenv
 requests
 numpy
+streamlit
